@@ -1,7 +1,7 @@
 # Text-Summarization
 Extractive Text Summarization using Spacy
 
-#Description
+Description
 Text summarization is a crucial task in natural language processing (NLP) aimed at condensing large volumes of text into shorter, more manageable summaries while retaining the essential information. This README focuses specifically on the extractive approach to text summarization.
 
 The Extractive Text Summarization process involves several key steps:
